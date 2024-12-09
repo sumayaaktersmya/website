@@ -1,0 +1,250 @@
+body{
+    margin:0;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+}
+.top{
+    background:linear-gradient(#05C2FA,skyblue);
+    width:100%;
+    display:flex;
+}
+.nusu{
+    width:33%;
+    color:white;
+    padding:50px 0px 0px 70px;
+}
+.name{
+    font-size:50px;
+    font-weight:900;
+}
+.name hr{
+    color:#2073F5;
+}
+.pic{
+    width:33%;
+}
+.pic img{
+    height:auto;
+    width:100;
+    padding-left:50px;
+}
+.span{
+    width:33%;
+    padding-left:200px;
+    color:#4b2aa2;
+    text-align:center;
+    margin:auto;
+}
+.span1{
+    font-size:50px;
+    font-width:700px;
+}
+.span2{
+    font-size:40px;
+    color:#a321ac;
+}
+.span3{
+    font-size:40x;
+    font-weight:700px;
+    color:#a321ac;
+}
+.span4{
+    font-size:20px;
+}
+.span5{
+    font-size:50px;
+    font-weight:700;
+}
+.span6{
+    font-size:20px;
+}
+.box{
+    height:130px;
+    width:1150;
+    background-color:white;
+    border-radius:20px;
+    margin:100px;
+    display:flex;
+    box-shadow:-2px 0px 30px rgb(86,240,255);
+}
+.box1{
+    height:80px;
+    width:80px;
+    margin:auto;
+}
+.box2 img{
+    height:80px;
+    width:80px;
+    transition:1s;
+}
+.box2 img:hover{
+    margin-top:-20px;
+}
+.my{
+    padding-top:100px;
+    text-align:center;
+    font-size:50px;
+    font-weight:700;
+    color:#2073F5;
+    font-weight:900;
+    font-size:40px;
+}
+.service{
+    height:580px;
+    weight:1100px;
+    display:flex;
+    margin:auto;
+}
+.service1{
+    height:400px;
+    width:23%;
+    margin:auto;
+    border-radius:20px;
+    background-color:wheat;
+}
+.service1 img{
+    height:100px;
+    width:100px;
+    padding:40px 0px 0px 100px;
+}
+.service1 h2{
+    text-align:center;
+    color: teal;
+    font-size: 22px;
+}
+.service1 p{
+    text-align: center;
+    font-size: 14px;
+    color:black;
+    padding: 0px 10px 0px 10px;
+}
+.herf1{
+    margin:0px 0px 0px 105px;
+    padding-top:15px;
+    transition:.5s;
+}
+.herf1:hover{
+    margin-top:-10px
+}
+.herf1 a{
+    font-weight:bold;
+    text-decoration:none;
+    padding:10px 20px 10px 20px;
+    background-color: #2073F5;
+    color:skyblue;
+    border-radius:10px;
+}
+.service2{
+	height: 470px;
+	width: 25%;
+	margin:auto;
+	border-radius: 20px;
+	background-color:#05C2FA;
+	box-shadow: rgb(90, 105, 250) 0px 8px 40px 0px;
+}
+.service2 img {
+	height: 100px;
+	width: 100px;
+	padding: 80px 0px 0px 100px;
+}
+.service2 h2{
+	text-align:center;
+	color:white;
+	font-size:22px;
+}
+.service2 p {
+	text-align: center;
+	font-size: 14px;
+	color:white;
+	padding: 0px 10px 0px 10px;
+}
+.herf2 {
+	margin: 0px 0px 0px 110px;
+	padding-top: 15px;
+	transition: .5s;
+}
+.herf2:hover {
+	margin-top: -10px;
+}
+.herf2 a {
+	text-decoration: none;
+	font-weight: bold;
+	padding: 10px 20px 10px 20px;
+	background-color:white;
+	color:#05C2FA;
+	border-radius: 10px;
+}
+.service3 {
+	height: 400px;
+	width: 23%;
+	margin: auto;
+	border-radius:20px;
+	background-color:wheat;
+}
+.service3 img {
+	height: 100px;
+	width: 100px;
+	padding: 40px 0px 0px 100px;
+}
+.service3 h2 {
+	text-align: center;
+	color:teal;
+	font-size: 22px;
+}
+.service3 p {
+	text-align: center;
+	font-size: 14px;
+	color:black;
+	padding: 0px 10px 0px 10px;
+}
+.herf3 {
+	margin: 0px 0px 0px 100px;
+	padding-top: 15px;
+	transition:.5s;
+}
+.herf3:hover {
+	margin-top: -10px;
+}
+.herf3 a {
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 20px 10px 20px;
+	background-color:#2073F5;
+	color:skyblue;
+	border-radius: 10px;
+}
+.ab{
+	background-image: url(images/bg3.png);
+	height: 500px;
+	width: 1000px;
+	display: flex;
+}
+.ab1 {
+	width: 50%;
+	height: 500px;
+	padding: 100px 0px 0px 100px;
+}
+.ab2 {
+	height: 500px;
+	width: 50%;
+}
+.ab2 img {
+	height:400px;
+	width:100%;
+	margin: 50px 0px 50px 150px;
+}
+.link {
+	padding-top: 15px;
+	transition:.5s;
+}
+.link:hover {
+	margin-top: -10px;
+}
+.link a {
+	font-weight: bold;
+	text-decoration: none;
+	padding: 10px 20px 10px 20px;
+	background-color: #05C2FA;
+	color:white;
+	border-radius: 10px;
+}
